@@ -1,5 +1,7 @@
 # Project 3: Reinforcement Learning, LSTM, and Search
 
+<a href="https://colab.research.google.com/github/reza-chehreqani/Artificial-Intelligence/blob/main/Projects/Project%203/Notebook.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Overview
 This repository contains the completed work for Project 3 of the Artificial Intelligence course. The project covers Reinforcement Learning, advanced neural networks (LSTM), and search algorithms, with practical implementations and detailed explanations.
 
