@@ -1,5 +1,7 @@
 # Project 1: Deep Learning Applications
 
+<a href="https://colab.research.google.com/github/reza-chehreqani/Artificial-Intelligence/blob/main/Projects/Project%201/Notebook.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Overview
 This repository contains the completed work for Project 1 of the Artificial Intelligence course. The project focuses on implementing advanced deep learning techniques, including image classification with pre-trained models, generative adversarial networks (GANs), and transfer learning.
 
