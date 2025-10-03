@@ -1,5 +1,7 @@
 # Project 2: Clustering, DecisionTree, and Quantum Neural Networks
 
+<a href="https://colab.research.google.com/github/reza-chehreqani/Artificial-Intelligence/blob/main/Projects/Project%202/Notebook.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Overview
 This repository contains the completed work for Project 2 of the Artificial Intelligence course. The project covers topics in unsupervised and supervised learning, as well as an introduction to quantum computing and quantum neural networks. 
 
